@@ -1,0 +1,11 @@
+{
+  "name": "influencer-investment-engine",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Transparent influencer investment assessment using economics, evidence quality, and uncertainty.",
+  "scripts": {
+    "qa": "node qa/product-qa.mjs",
+    "check": "node --check src/engine.js && node --check src/fixtures.js && node --check src/app.js && node --check qa/product-qa.mjs"
+  }
+}
