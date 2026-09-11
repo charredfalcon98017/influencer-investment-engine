@@ -6,7 +6,7 @@ You run a small direct-to-consumer (D2C) brand selling plant protein **only in I
 
 **The demo’s answer: ₹32,000 invest in B + ₹16,000 conditional test in D + ₹52,000 held.** It recommends a plan before you spend; it does not execute payments or predict sales.
 
-[**Try the live demo →**](https://charredfalcon98017.github.io/influencer-investment-engine/dist/) · [**Watch the 86-second recording →**](assets/media/walkthrough.webm) · [Run locally](#try-it-yourself)
+[**Try the live demo →**](https://charredfalcon98017.github.io/influencer-investment-engine/dist/) · [**Watch the 86-second recording →**](https://charredfalcon98017.github.io/influencer-investment-engine/assets/media/walkthrough.webm) · [Run locally](#try-it-yourself)
 
 *Illustrative, fixed scenario. All creator data is synthetic; private audience evidence is simulated. No live-campaign validation or ROI prediction.*
 
