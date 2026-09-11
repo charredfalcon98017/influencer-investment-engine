@@ -1,0 +1,45 @@
+{
+  "capture": "Actual running static app, Chromium, 1440x1080, 2026-09-11",
+  "video": {
+    "file": "walkthrough.webm",
+    "durationSeconds": 86.48,
+    "audio": false
+  },
+  "assets": [
+    {
+      "file": "01-brief.png",
+      "bytes": 176697,
+      "sha256": "6223861e29c01054eeb328bfb7d7a5136a827dc7cb3d6dfad06d1af56914bada"
+    },
+    {
+      "file": "02-compare.png",
+      "bytes": 161294,
+      "sha256": "eb07fcfbcc3aea0b8064c80413feacca02da3923287fb5be187d2e631f107ba3"
+    },
+    {
+      "file": "03-decision-b.png",
+      "bytes": 156614,
+      "sha256": "caeb2635d3265016769e0aed61a97b916443b913e9e320f2f06015a3b53e7ee7"
+    },
+    {
+      "file": "04-decision-d.png",
+      "bytes": 165386,
+      "sha256": "60c22441b83976d7ea257641339457ef0621647514cc2f1d4cf315cfabcd1e0e"
+    },
+    {
+      "file": "05-allocation.png",
+      "bytes": 155270,
+      "sha256": "b4b009df200da394056c1768cfda899a8b55705d233c97d1df209e90bfb15534"
+    },
+    {
+      "file": "hero.png",
+      "bytes": 120762,
+      "sha256": "890cf5811a989b30edf32924494a48d1c27b4c56234c66339e4a9b13a500a579"
+    },
+    {
+      "file": "walkthrough.webm",
+      "bytes": 5005753,
+      "sha256": "e419729e4e80b66aa16858473f16390612a6f66e68ec7759c6971da30c7137d6"
+    }
+  ]
+}

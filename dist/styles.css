@@ -473,3 +473,9 @@ tr.selected {
   }
 }
 
+
+/* Keep every comparison verdict visible at desktop widths. */
+@media (min-width: 901px) {
+  .comparison-layout { grid-template-columns: 1fr; }
+  .comparison-layout .rank-list { grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 24px; }
+}
